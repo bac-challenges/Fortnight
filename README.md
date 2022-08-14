@@ -9,3 +9,4 @@
 - Xcode 13
 - SwiftUI
 - Combine
+- Alamofire
